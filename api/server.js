@@ -10,6 +10,8 @@ app.get("/", (req, res) => {
   res.json({ message: "Scattergories API running" });
 });
 
+app.get
+
 app.listen(3000, () => {
   console.log("Server running on port 3000");
 });
