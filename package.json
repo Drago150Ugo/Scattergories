@@ -1,0 +1,21 @@
+{
+  "name": "scattergories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drago150Ugo/Scattergories.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Drago150Ugo/Scattergories/issues"
+  },
+  "homepage": "https://github.com/Drago150Ugo/Scattergories#readme"
+}
